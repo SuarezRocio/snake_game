@@ -1,6 +1,6 @@
 # snake_game
 
-Snake Game, es un juego desarrollado con el lenguaje javasctipt. 
+<h2>Snake Game, es un juego desarrollado con el lenguaje javasctipt.</h2> 
 
 <h3>Utilizando:</h3>
 <ul>
